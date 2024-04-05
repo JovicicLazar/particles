@@ -8,6 +8,6 @@ make
 ```make
 ./particles
 ```
-NOTE you may need to add permissions to ./particles
+NOTE you may need to add executable permissions to ./particles
 
 
